@@ -1,2 +1,2 @@
-# cs178
+# CS 178
 Final Project
